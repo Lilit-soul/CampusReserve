@@ -47,9 +47,9 @@
 
 Перед началом изучит [CONTRIBUTING.md](./CONTRIBUTING.md) — тут лежат правила оформления веток, коммитов, и запросов на слияние
 
-Добовлять задачи/баги в issuesы _ [GitHub Issues](./issues)
+Добовлять задачи/баги в issuesы — [GitHub Issues](https://github.com/VixurHD/CampusReserve/issues)
 
-Доска с взятыми/открытыми, взятыми на рассмотрение/рассмотреными задачами — [GitHub Projects](./projects)
+Доска с взятыми/открытыми, взятыми на рассмотрение/рассмотреными задачами — [GitHub Projects](https://github.com/VixurHD/CampusReserve/projects)
 
 ---
 
