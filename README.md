@@ -56,7 +56,7 @@
 ## Команда
 | Имя — Username | Роль/Задачи |
 |----------------|-------------|
-| Денис — @VixurHD | Maintain/DevOps |
-| Ирина — @Lilit-soul | Дизайнер |
-| Дмитрий — @EJIEKTRICK | <!-- Задача еще не определена--> |
-| Азат — @unfiltered-feed | <!-- Задача еще не определена--> |
+| Денис — [@VixurHD](https://github.com/VixurHD) | Maintain/DevOps |
+| Ирина — [@Lilit-soul](https://github.com/Lilit-soul) | Дизайнер |
+| Дмитрий — [@EJIEKTRICK](https://github.com/EJIEKTRICK) | <!-- Задача еще не определена--> |
+| Азат — [@unfiltered-feed](https://github.com/unfiltered-feed) | <!-- Задача еще не определена--> |
