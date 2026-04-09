@@ -47,14 +47,14 @@
 
 Перед началом изучит [CONTRIBUTING.md](./CONTRIBUTING.md) — тут лежат правила оформления веток, коммитов, и запросов на слияние
 
-Добовлять задачи/баги в issuesы — [GitHub Issues](https://github.com/VixurHD/CampusReserve/issues)
+Добовлять задачи/баги в issues — [GitHub Issues](https://github.com/VixurHD/CampusReserve/issues)
 
 Доска с взятыми/открытыми, взятыми на рассмотрение/рассмотреными задачами — [GitHub Projects](https://github.com/VixurHD/CampusReserve/projects)
 
 ---
 
 ## Команда
-| Имя — Username(ссылка) | Роль/Задачи |
-|------------------------|-------------|
-| Денис — [VixurHD](../../VixurHD) | Maintain/DevOps |
-| Ирина — [Lilit-soul](../../Lilit-soul) | Дизайнер |
+| Имя — Username | Роль/Задачи |
+|----------------|-------------|
+| Денис — @VixurHD | Maintain/DevOps |
+| Ирина — @Lilit-soul | Дизайнер |
