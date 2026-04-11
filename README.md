@@ -8,7 +8,6 @@
 ---
 
 ## Стек
-> Пока обсуждается
 
 | Слой/Задача | Применяемые инструменты |
 |-------------|-------------------------|
@@ -16,7 +15,7 @@
 | DataBase | PostgreSQL |
 | ORM | GORM |
 | Инфраструктура | Docker, docker-compose, Nginx |
-| Frontend | <!-- Пока не определились --> |
+| Frontend | React |
 
 ---
 
@@ -26,15 +25,12 @@
 /
 |— frontend/            # web-интерфейс
 |— backend/             # API и другая логика
-|— db/                  # базы данных
+|— db/                  # миграции и схемы баз данных
 |— infra/               # docker-compose, nginx, envs
 |— .github/             # 
    |— workflows/        # CI/CD
    |— ISSUE_TEMPLATE/   # 
 ```
-
-### Структура продукта (на сервере) 
-> Смотри файл [DEPLOY.md](./DEPLOY.md)
 
 ---
 
@@ -45,7 +41,7 @@
 
 ## Работа
 
-Перед началом изучит [CONTRIBUTING.md](./CONTRIBUTING.md) — тут лежат правила оформления веток, коммитов, и запросов на слияние
+Перед началом изучить [CONTRIBUTING.md](./CONTRIBUTING.md) — тут лежат правила оформления веток, коммитов, и запросов на слияние
 
 Добовлять задачи/баги в issues — [GitHub Issues](https://github.com/VixurHD/CampusReserve/issues)
 
@@ -59,4 +55,5 @@
 | Денис — [@VixurHD](https://github.com/VixurHD) | Maintain, DevOps |
 | Ирина — [@Lilit-soul](https://github.com/Lilit-soul) | Дизайн, Frontend |
 | Дмитрий — [@EJIEKTRICK](https://github.com/EJIEKTRICK) | Backend, API |
-| Азат — [@unfiltered-feed](https://github.com/unfiltered-feed) | <!-- Задача еще не определена--> |
+| Азат — [@unfiltered-feed](https://github.com/unfiltered-feed) | Базы данных |
+
